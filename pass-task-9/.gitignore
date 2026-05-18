@@ -1,0 +1,15 @@
+# API keys — never commit
+**/res/values/secrets.xml
+
+# Android build output
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
